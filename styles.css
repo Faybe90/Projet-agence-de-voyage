@@ -1,0 +1,45 @@
+.navbar-brand .logo {
+  max-width: 100x;
+  margin-right: 10px;
+}
+
+/* Styles pour la section Hero */
+.hero-section {
+  background-image: url("wallpaperflare.com_wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #f0f0f0;
+  /text-align: center;
+  padding: 100px 0;
+}
+
+/* Styles pour les cartes des destinations */
+.destination-card {
+  margin-bottom: 20px;
+}
+
+/* Styles pour le formulaire de contact */
+.form-group {
+  margin-bottom: 20px;
+}
+
+/* Styles pour le footer */
+footer {
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-icons img {
+  width: 30px;
+}
